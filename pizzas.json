@@ -1,0 +1,60 @@
+{
+    "results": [
+        {
+            "id": 1,
+            "name": "Margharita",
+            "price": 1320,
+            "pizzaCount": "0",
+            "img": "https://online.pizzahut.co.in/sites/default/files/product_images/pizzahut_slice_images/1371006.png"
+        },
+        {
+            "id": 2,
+            "name": "Regina",
+            "price": 1240,
+            "pizzaCount": "0",
+            "img": "https://online.pizzahut.co.in/sites/default/files/product_images/pizzahut_slice_images/1371007.png"
+        },
+        {
+            "id": 3,
+            "name": "Regina",
+            "price": 1240,
+            "pizzaCount": "0",
+            "img": "https://online.pizzahut.co.in/sites/default/files/product_images/pizzahut_slice_images/1372446.png"
+        },
+        {
+            "id": 4,
+            "name": "Margharita",
+            "price": 1320,
+            "pizzaCount": "0",
+            "img": "https://online.pizzahut.co.in/sites/default/files/product_images/pizzahut_slice_images/1371000.png"
+        },
+        {
+            "id": 5,
+            "name": "Regina",
+            "price": 1240,
+            "pizzaCount": "0",
+            "img": "https://online.pizzahut.co.in/sites/default/files/product_images/pizzahut_slice_images/1371013.png"
+        },
+        {
+            "id": 6,
+            "name": "Regina",
+            "price": 1240,
+            "pizzaCount": "0",
+            "img": "https://online.pizzahut.co.in/sites/default/files/product_images/pizzahut_slice_images/1372450.png"
+        },
+        {
+            "id": 7,
+            "name": "Regina",
+            "price": 1240,
+            "pizzaCount": "0",
+            "img": "https://online.pizzahut.co.in/sites/default/files/product_images/pizzahut_slice_images/1371003.png"
+        },
+        {
+            "id": 8,
+            "name": "Regina",
+            "price": 1240,
+            "pizzaCount": "0",
+            "img": "https://online.pizzahut.co.in/sites/default/files/product_images/pizzahut_slice_images/1372452.png"
+        }
+    ]
+}
